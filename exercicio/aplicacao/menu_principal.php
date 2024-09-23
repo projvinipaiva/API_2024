@@ -93,8 +93,8 @@
                         <ul class="nav-right">                            
                             <li class="user-profile header-notification">
                                 <a href="#!" class="waves-effect waves-light">
-                                    <img src="assets/images/avatar-6.png" class="img-radius" alt="User-Profile-Image">
-                                    <span>Rafaela Alves</span>
+                                    <img src="assets/images/avatar-6.jpg" class="img-radius" alt="User-Profile-Image">
+                                    <span>Vinícius de Paiva</span>
                                     <i class="ti-angle-down"></i>
                                 </a>
                                 <ul class="show-notification profile-notification">
@@ -127,9 +127,9 @@
                         <div class="pcoded-inner-navbar main-menu">
                             <div class="">
                                 <div class="main-menu-header">
-                                    <img class="img-80 img-radius" src="assets/images/avatar-6.png" alt="User-Profile-Image">
+                                    <img class="img-80 img-radius" src="assets/images/avatar-6.jpg" alt="User-Profile-Image">
                                     <div class="user-details">
-                                        <span id="more-details">Rafaela Alves<i class="fa fa-caret-down"></i></span>
+                                        <span id="more-details">Vinícius de Paiva<i class="fa fa-caret-down"></i></span>
                                     </div>
                                 </div>
                                 <div class="main-menu-content">
